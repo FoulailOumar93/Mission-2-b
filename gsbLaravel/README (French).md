@@ -13,7 +13,7 @@ Laravel est un framework d'application web doté d'une syntaxe expressive et él
 
 - [Moteur de routage simple et rapide](https://laravel.com/docs/routing).
 - [Puissant conteneur d'injection de dépendance.](https://laravel.com/docs/container).(https://laravel.com/docs/session) et [cache](https://laravel.com/docs/cache) stockage.
-- Plusieurs solutions pour le stockage des [sessions] et des [caches.](https://laravel.com/docs/eloquent).
+- Plusieurs solutions pour le stockage des [sessions] et des [caches](https://laravel.com/docs/eloquent).
 - [ORM de base de données] expressif et intuitif.[](https://laravel.com/docs/migrations).
 - Migrations de [schémas indépendantes de la base de données.](https://laravel.com/docs/queues).
 - [Traitement robuste des tâches en arrière-plan.](https://laravel.com/docs/broadcasting).
