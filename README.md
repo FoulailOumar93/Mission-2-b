@@ -20,11 +20,11 @@ Modules
 
 ## L'application se compose de trois modules principaux :
 
-    Enregistrement et suivi des frais par les visiteurs.
-    Enregistrement des opérations par les comptables.
-    Gestion des visiteurs par les gestionnaires.
+1. Enregistrement et suivi des frais par les visiteurs.
+2.  Enregistrement des opérations par les comptables.
+3.  Gestion des visiteurs par les gestionnaires.
 
-Comment Contribuer
+## Comment Contribuer
 
 Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 
@@ -34,11 +34,11 @@ Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
     Push to the branch (git push origin feature/AmazingFeature)
     Open a pull request
 
-Auteurs
+## Auteurs
 
     John Doe
     Jane Smith
 
-Licence
+## Licence
 
 Ce projet est sous licence MIT - voir le fichier LICENSE.md pour plus de détails.
