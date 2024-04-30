@@ -1,4 +1,5 @@
 # Application de Gestion des Frais
+
 ## Description du Projet
 
 Cette application web a été développée dans le cadre du Projet Personnel Encadré (PPE) Mission 2, version b. L'objectif principal est de mettre en place un système de gestion des frais pour les visiteurs médicaux et le service comptable de l'entreprise. L'application permettra d'enregistrer et de suivre les frais engagés, ainsi que de gérer le processus de validation des demandes de remboursement.
@@ -6,7 +7,6 @@ Cette application web a été développée dans le cadre du Projet Personnel Enc
 ## Spécifications Fonctionnelles
 
 Les spécifications fonctionnelles détaillent les fonctionnalités de l'application, y compris les cas d'utilisation et les scénarios associés. Vous pouvez consulter le fichier Specs_Fonctionnelles.pdf pour plus d'informations.
-
 ## Normes de Développement
 
 Le développement de l'application doit suivre les normes définies dans le document ApplisWeb-NormesDevelpt, qui établit les bonnes pratiques de développement utilisées par le service informatique de GSB. Assurez-vous de respecter le nommage des fichiers, variables et paramètres, ainsi que les conventions de codage.
@@ -20,19 +20,19 @@ Modules
 
 ## L'application se compose de trois modules principaux :
 
-1. Enregistrement et suivi des frais par les visiteurs.
-2.  Enregistrement des opérations par les comptables.
-3.  Gestion des visiteurs par les gestionnaires.
+    Enregistrement et suivi des frais par les visiteurs.
+    Enregistrement des opérations par les comptables.
+    Gestion des visiteurs par les gestionnaires.
 
 ## Comment Contribuer
 
-Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
+ Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 
-Forker le dépôt
-Créer votre branche de fonctionnalité (git checkout -b feature/AmazingFeature)
-Valider vos modifications (git commit -m 'Ajouter une fonctionnalité incroyable')
-Pousser vers la branche (git push origin feature/AmazingFeature)
-Ouvrir une demande de fusion
+    Forkez le dépôt.
+    Créez votre branche de fonctionnalité (git checkout -b feature/AmazingFeature).
+    Validez vos modifications (git commit -m 'Ajouter une fonctionnalité incroyable').
+    Poussez vers la branche (git push origin feature/AmazingFeature).
+    Ouvrez une demande de fusion.
 
 ## Auteurs
 
