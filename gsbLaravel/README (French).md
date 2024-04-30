@@ -12,12 +12,12 @@
 Laravel est un framework d'application web doté d'une syntaxe expressive et élégante. Nous croyons que le développement doit être une expérience agréable et créative pour être véritablement enrichissante. Laravel simplifie le développement en facilitant les tâches courantes utilisées dans de nombreux projets web, telles que :
 
 - [Moteur de routage simple et rapide](https://laravel.com/docs/routing).
-- [Puissant conteneur d'injection de dépendance.](https://laravel.com/docs/container).(https://laravel.com/docs/session) et [cache](https://laravel.com/docs/cache) stockage.
+- [Puissant conteneur d'injection de dépendance](https://laravel.com/docs/container).(https://laravel.com/docs/session) et [cache](https://laravel.com/docs/cache) stockage.
 - Plusieurs solutions pour le stockage des [sessions] et des [caches](https://laravel.com/docs/eloquent).
 - [ORM de base de données] expressif et intuitif.[](https://laravel.com/docs/migrations).
-- Migrations de [schémas indépendantes de la base de données.](https://laravel.com/docs/queues).
-- [Traitement robuste des tâches en arrière-plan.](https://laravel.com/docs/broadcasting).
-- [Diffusion d'événements en temps réel.](https://laravel.com/docs/broadcasting).
+- Migrations de [schémas indépendantes de la base de données](https://laravel.com/docs/queues).
+- [Traitement robuste des tâches en arrière-plan](https://laravel.com/docs/broadcasting).
+- [Diffusion d'événements en temps réel](https://laravel.com/docs/broadcasting).
 
 Laravel est accessible, puissant et fournit les outils nécessaires pour des applications grandes et robustes.
 
