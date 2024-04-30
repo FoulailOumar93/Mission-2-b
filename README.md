@@ -28,11 +28,11 @@ Modules
 
 Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 
-    Fork the repository
-    Create your feature branch (git checkout -b feature/AmazingFeature)
-    Commit your changes (git commit -m 'Add some AmazingFeature')
-    Push to the branch (git push origin feature/AmazingFeature)
-    Open a pull request
+Forker le dépôt
+Créer votre branche de fonctionnalité (git checkout -b feature/AmazingFeature)
+Valider vos modifications (git commit -m 'Ajouter une fonctionnalité incroyable')
+Pousser vers la branche (git push origin feature/AmazingFeature)
+Ouvrir une demande de fusion
 
 ## Auteurs
 
