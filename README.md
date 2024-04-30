@@ -1,11 +1,13 @@
 # Application de Gestion des Frais
-Description du Projet
+## Description du Projet
 
 Cette application web a été développée dans le cadre du Projet Personnel Encadré (PPE) Mission 2, version b. L'objectif principal est de mettre en place un système de gestion des frais pour les visiteurs médicaux et le service comptable de l'entreprise. L'application permettra d'enregistrer et de suivre les frais engagés, ainsi que de gérer le processus de validation des demandes de remboursement.
-Spécifications Fonctionnelles
+
+## Spécifications Fonctionnelles
 
 Les spécifications fonctionnelles détaillent les fonctionnalités de l'application, y compris les cas d'utilisation et les scénarios associés. Vous pouvez consulter le fichier Specs_Fonctionnelles.pdf pour plus d'informations.
-Normes de Développement
+
+## Normes de Développement
 
 Le développement de l'application doit suivre les normes définies dans le document ApplisWeb-NormesDevelpt, qui établit les bonnes pratiques de développement utilisées par le service informatique de GSB. Assurez-vous de respecter le nommage des fichiers, variables et paramètres, ainsi que les conventions de codage.
 Architecture
@@ -16,7 +18,7 @@ Environnement
 Le langage de script côté serveur utilisé dans l'application est le PHP, conforme à celui utilisé dans les pages fournies. Assurez-vous de maintenir la cohérence avec l'environnement existant.
 Modules
 
-L'application se compose de trois modules principaux :
+## L'application se compose de trois modules principaux :
 
     Enregistrement et suivi des frais par les visiteurs.
     Enregistrement des opérations par les comptables.
