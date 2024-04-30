@@ -1,4 +1,4 @@
-Application de Gestion des Frais
+#Application de Gestion des Frais
 Description du Projet
 
 Cette application web a été développée dans le cadre du Projet Personnel Encadré (PPE) Mission 2, version b. L'objectif principal est de mettre en place un système de gestion des frais pour les visiteurs médicaux et le service comptable de l'entreprise. L'application permettra d'enregistrer et de suivre les frais engagés, ainsi que de gérer le processus de validation des demandes de remboursement.
