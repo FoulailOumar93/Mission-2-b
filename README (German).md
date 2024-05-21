@@ -1,4 +1,4 @@
-# Expense Management Application
+# Anwendung zur Spesenverwaltung
 ## Projektbeschreibung
 
 Diese Webanwendung wurde im Rahmen des betreuten persönlichen Projekts (PPE) Mission 2, Version b, entwickelt. Das Hauptziel besteht darin, ein Kostenverwaltungssystem für medizinische Besucher und den Buchhaltungsservice des Unternehmens einzurichten. Die Anwendung ermöglicht es, angefallene Kosten zu erfassen und zu verfolgen sowie den Prozess zur Genehmigung von Rückerstattungsanträgen zu verwalten.
